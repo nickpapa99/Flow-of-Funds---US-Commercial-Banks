@@ -12,4 +12,4 @@ This analysis not only enhances understanding of the banking sector's influence 
 
 ## References
 
-- L.111 U.S.-Chartered Depository Institutions [Link to data]([https://www.nber.org/papers/w18330](https://www.federalreserve.gov/releases/z1/20180920/html/l111.htm))
+- L.111 U.S.-Chartered Depository Institutions [Link to data](https://www.nber.org/papers/w18330](https://www.federalreserve.gov/releases/z1/20180920/html/l111.htm))
