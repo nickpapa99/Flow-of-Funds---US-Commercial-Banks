@@ -10,6 +10,6 @@ Key observations include the predominance of long-term assets and liabilities, t
 
 This analysis not only enhances understanding of the banking sector's influence on economic stability and growth but also demonstrates the power of data visualization in elucidating complex financial trends.
 
-## References
+## Sources
 
 - L.111 U.S.-Chartered Depository Institutions [Link to data](https://www.nber.org/papers/w18330](https://www.federalreserve.gov/releases/z1/20180920/html/l111.htm))
